@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Leonard Shayo
 #### I am a frontend developer 
-![I am a frontend developer ](/Black Modern Vlogger YouTube Banner.png)
+![I am a frontend developer ](https://github.com/leonard-shayo/leonard-shayo/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
