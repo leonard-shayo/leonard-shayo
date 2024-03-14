@@ -1,14 +1,16 @@
 ### Hi there 👋, my name is Leonard Shayo
 #### I am a frontend developer 
-![I am a frontend developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a frontend developer ]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/leonard-shayo/leonard-shayo/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png))
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-###Skills: 
-•	Git & GitHub
-•	HTML, JavaScript & CSS 
-•	React.js & Redux.js 
-•	Strapi (Headless Content Management System)
+### Skills: 
+⋅⋅* 	Git & GitHub
+⋅⋅* 	HTML, JavaScript & CSS 
+⋅⋅* 	React.js & Redux.js 
+⋅⋅* 	Strapi (Headless Content Management System)
+
+### work examples
 
 
 
