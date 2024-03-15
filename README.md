@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-<p align="left">A passionate frontend developer from Tanzania</p>
+<p align="left">My journey into the world of programming began with web development, and I instantly fell in love with it. As a front-end developer, I've been utilizing the React.js library to build user-friendly interfaces. However, my curiosity extends beyond the front-end, and I'm currently expanding my skills in backend development to realize my goal of becoming a MERN full-stack web developer. I'd especially love to work in a startup where I can make an impact. if you're hiring, let's chat </p>
 
 - 🌱 I’m currently learning **Backend development**
 
