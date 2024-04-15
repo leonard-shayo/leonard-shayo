@@ -1,5 +1,5 @@
  
-![I am a frontend developer ](https://github.com/leonard-shayo/leonard-shayo/blob/main/bunnerimage.png)
+![I am a frontend developer ](https://github.com/leonard-shayo/leonard-shayo/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 
 <h3 align="left">About me:</h3>
 
