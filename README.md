@@ -1,21 +1,28 @@
- 
-![I am a frontend developer ](https://github.com/leonard-shayo/leonard-shayo/blob/main/bunnerimage.png)
-
 <h3 align="left">About me:</h3>
 
-<p align="left">My journey into the world of programming began with web development, and I instantly fell in love with it. As a front-end developer, I've been utilizing the React.js library to build user-friendly interfaces. However, my curiosity extends beyond the front-end, and I'm currently expanding my skills in backend development to realize my goal of becoming a MERN full-stack web developer. I'd especially love to work in a startup where I can make an impact. if you're hiring, let's chat </p>
+<p align="left">With a Bachelor of Engineering in Computer Engineering and a wealth of knowledge in React.js, Next.js, Tailwind CSS, TypeScript, and Shadcn UI, I specialize in creating functional, stunning, inclusive, and user-friendly products.</p>
 
-- 🌱 I’m currently learning **Backend development**
+**𝗛𝗲𝗿𝗲'𝘀 𝘄𝗵𝗮𝘁 𝘀𝗲𝘁𝘀 𝗺𝗲 𝗮𝗽𝗮𝗿𝘁:**
 
-- 💬 Ask me anything about **react**
+| Column 1                        | Column 2                     |
+|---------------------------------|------------------------------|
+| Design-Focused Coding           | Cross-Browser Compatibility  |
+| Performance Optimization        | Clean and Maintainable Code  |
+| Professional Design             | Integration with Backend Services |
+| Responsive Design               | Security                     |
+| User-Friendly Interface         | Customizability              |
+| Detailed Documentation          | Testing and Quality Assurance|
+| Effective Communication         | Post-Launch Support          |
+| Cost and Time Efficiency        |                              |
+
 
 - 📫 How to reach me **leoshayo11@gmail.com** **+255 620 454 106**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shayoleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayoleo" height="30" width="40" /></a>
-<!-- <a href="https://linkedin.com/in/leonard shayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard shayo" height="30" width="40" /></a>
-<a href="https://instagram.com/leonardshayotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardshayotz" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/leonard shayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard shayo" height="30" width="40" /></a>
+<!-- ![I am a frontend developer ](https://github.com/leonard-shayo/leonard-shayo/blob/main/bunnerimage.png) <a href="https://instagram.com/leonardshayotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardshayotz" height="30" width="40" /></a> -->
 </p>  
  
 
