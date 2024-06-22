@@ -6,7 +6,7 @@
 <p align="left">With a Bachelor of Engineering in Computer Engineering and a wealth of knowledge in Full-stack web development , I specialize in creating functional, stunning, inclusive, and user-friendly products.</p>
 
 
-**𝗛𝗲𝗿𝗲'𝘀 𝘄𝗵𝗮𝘁 𝘀𝗲𝘁𝘀 𝗺𝗲 𝗮𝗽𝗮𝗿𝘁:**
+<h3 align="left">Here's what sets me apart:</h3>
 
 <p align="left">In a competitive field, standing out requires a unique blend of skills, dedication, and a commitment to excellence. Here’s what makes my services exceptional and how I deliver outstanding results for every project:</p>
 
@@ -22,7 +22,7 @@
 | Cost and Time Efficiency        |                              |
 
 
-- 📫 How to reach me **leoshayo11@gmail.com** **+255 620 454 106**
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -31,6 +31,9 @@
 <a href="https://linkedin.com/in/leonard shayo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard shayo" height="30" width="40" /></a>
 <!-- ![I am a frontend developer ](https://github.com/leonard-shayo/leonard-shayo/blob/main/bunnerimage.png) <a href="https://instagram.com/leonardshayotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardshayotz" height="30" width="40" /></a> -->
 </p>  
+
+
+- 📫 How to reach me **leoshayo11@gmail.com** **+255 620 454 106**
  
 
 
